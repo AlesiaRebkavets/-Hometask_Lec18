@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataBase", "DataBase\DataBase.csproj", "{1CAA8375-714D-4F8D-BC38-D307CE8177FF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1CCB1B42-9F9B-4BEC-8214-00BFCF580FED}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CAA8375-714D-4F8D-BC38-D307CE8177FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CAA8375-714D-4F8D-BC38-D307CE8177FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CAA8375-714D-4F8D-BC38-D307CE8177FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CAA8375-714D-4F8D-BC38-D307CE8177FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

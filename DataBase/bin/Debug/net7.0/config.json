@@ -1,0 +1,5 @@
+﻿{
+  "ConnectionStrings": {
+    "adonetdb": "Server=localhost;Database=master;Encrypt=False;Trusted_Connection=True"
+  }
+}
